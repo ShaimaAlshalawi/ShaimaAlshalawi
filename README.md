@@ -7,7 +7,7 @@
 - 📫 How to reach me **shaima.alshalawi@gmail.com**
 
 <h3 align="left">My Portfolio:</h3>
-<a href="http://shaima-alshalawi.rf.gd/">Shaima Alshalawi Portfolio</a>
+<a href="http://shaima-m-alshalawi.rf.gd/">Shaima Alshalawi Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
